@@ -1,0 +1,39 @@
+-----------------------------------
+Name : Ali
+Age : 23
+Address : karachi
+Country : pakistan
+Date of birth: team : pakistan
+national_matches : 5
+international_matches : 3
+-----------------------------------
+-----------------------------------
+Name : uu
+Age : 0
+Address : 
+Country : 
+Date of birth: team : 
+game : 
+national_matches : 0
+international_matches : 0
+-----------------------------------
+-----------------------------------
+Name : 
+Age : 0
+Address : 
+Country : 
+Date of birth: team : 
+game : 
+national_matches : 0
+international_matches : 0
+-----------------------------------
+-----------------------------------
+Name : usman
+Age : 25
+Address : laondon
+Country : England
+Date of birth: team : England
+game : Badmenton
+national_matches : 6
+international_matches : 4
+-----------------------------------
